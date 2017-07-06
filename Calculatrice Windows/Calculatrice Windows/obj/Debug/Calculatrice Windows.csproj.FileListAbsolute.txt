@@ -1,0 +1,9 @@
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\bin\Debug\Calculatrice Windows.exe.config
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\bin\Debug\Calculatrice Windows.exe
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\bin\Debug\Calculatrice Windows.pdb
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice Windows.csprojResolveAssemblyReference.cache
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice_Windows.Properties.Resources.resources
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice Windows.csproj.GenerateResource.Cache
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice Windows.exe
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice Windows.pdb
+c:\users\walid\documents\visual studio 2017\Projects\Calculatrice Windows\Calculatrice Windows\obj\Debug\Calculatrice_Windows.frmMain.resources
